@@ -1,0 +1,126 @@
+Name,Category,Units,Drink Value,Other Value,Relevant Value,Comparison To HGL,Comparison Label,Index Value,Index Display,Classification
+"1,2 Dichloropropane",highly volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Carbon Tetrachloride,highly volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Dichloromethane,highly volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Tetrachloroethylene,highly volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Trichloroethylene,highly volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Vinyl Chloride,highly volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Benzene,moderately volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Dibromochloropropane,moderately volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Ethylene dibromide,moderately volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+"1,1,2 Trichloroethane",highly volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+"1,2 Dichloroethane",highly volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Bromodichloromethane,highly volatile organics,PPB,,1.8,1.8,,No safe level,104.5,,Moderate
+Chloroform,highly volatile organics,PPB,,6.27,6.27,27.499999999999996,,54.33505302378905,,Good
+Dibromochloromethane,highly volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Antimony,metals/inorganics,PPM,,,,,Not Detected,,Not Detected,-
+Arsenic,metals/inorganics,PPM,,0.00049,,,Not Detected,,Not Detected,-
+Barium,metals/inorganics,PPM,0.0017,0.03,0.0017,-0.99915,,0.042499999999999996,,Optimal
+Beryllium,metals/inorganics,PPM,,,,,Not Detected,,Not Detected,-
+Cadmium,metals/inorganics,PPM,,1e-05,,,Not Detected,,Not Detected,-
+Chromium (Total),metals/inorganics,PPM,,,,,Not Detected,,Not Detected,-
+Copper,metals/inorganics,PPM,0.0063,0.17,0.0063,-0.979,,1.05,,Optimal
+Lead,metals/inorganics,PPM,,6e-05,,,Not Detected,,Not Detected,-
+Mercury,metals/inorganics,PPM,,,,,Not Detected,,Not Detected,-
+Selenium,metals/inorganics,PPM,,,,,Not Detected,,Not Detected,-
+Thallium,metals/inorganics,PPM,,,,,Not Detected,,Not Detected,-
+Uranium,metals/inorganics,PPM,,0.00017,,,Not Detected,,Not Detected,-
+"1,4 Dichlorobenzene",moderately volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Chlorobenzene,moderately volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Ethylbenzene,moderately volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+"m,p Xylene",moderately volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+o Xylene,moderately volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Styrene,moderately volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Toluene,moderately volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+"1,2,4 Trichlorobenzene",moderately volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Bromoform,moderately volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Fluoride,metals/inorganics,PPM,0.6,0.68,0.6,-0.2500000000000001,,37.5,,Optimal
+Nitrate (as N),metals/inorganics,PPM,1.1,1.09,1.1,-0.89,,5.500000000000001,,Optimal
+Nitrite (as N),metals/inorganics,PPM,0.23,0.2,0.23,-0.77,,11.5,,Optimal
+"1,1 Dichloroethane",highly volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+"1,1 Dichloroethylene",highly volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+"1,1 Dichloropropene",highly volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+"1,1,1 Trichloroethane",highly volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+"1,1,1,2 Tetrachloroethane",highly volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+"1,1,2,2 Tetrachloroethane",highly volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+"1,3 Dichloropropane",highly volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+"2,2 Dichloropropane",highly volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Bromochloromethane,highly volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Bromomethane,highly volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Chloroethane,highly volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Chloromethane,highly volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+"cis 1,2 Dichloroethylene",highly volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+"cis 1,3 Dichloropropene",highly volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Dibromomethane,highly volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Dichlorodifluoromethane,highly volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+"trans 1,3 Dichloropropene",highly volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Trichlorofluoromethane,highly volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Total THMs,highly volatile organics,PPB,0.0,8.55,8.55,25.71875,,119.93447580645162,,Moderate
+Aluminum,metals/inorganics,PPM,,,,,Not Detected,,Not Detected,-
+Boron,metals/inorganics,PPM,,0.07,,,Not Detected,,Not Detected,-
+Calcium,metals/inorganics,PPM,47.3,52.8,47.3,,No Benchmarks,,No Benchmarks,-
+Cobalt,metals/inorganics,PPM,,0.00108,,,Not Detected,,Not Detected,-
+Iron,metals/inorganics,PPM,,,,,Not Detected,,Not Detected,-
+Lithium,metals/inorganics,PPM,,0.01,,,Not Detected,,Not Detected,-
+Magnesium,metals/inorganics,PPM,4.42,5.12,4.42,,No Benchmarks,,No Benchmarks,-
+Manganese,metals/inorganics,PPM,,,,,Not Detected,,Not Detected,-
+Molybdenum,metals/inorganics,PPM,,0.00107,,,Not Detected,,Not Detected,-
+Nickel,metals/inorganics,PPM,,0.00307,,,Not Detected,,Not Detected,-
+Phosphorus,metals/inorganics,PPM,,0.37,,,Not Detected,,Not Detected,-
+Potassium,metals/inorganics,PPM,6.66,6.99,6.66,,No Benchmarks,,No Benchmarks,-
+Silica,metals/inorganics,PPM,11.3,,11.3,,No Benchmarks,,No Benchmarks,-
+Silver,metals/inorganics,PPM,,,,,Not Detected,,Not Detected,-
+Sodium,metals/inorganics,PPM,25.2,21.27,25.2,,No Benchmarks,,No Benchmarks,-
+Strontium,metals/inorganics,PPM,0.196,0.35,0.196,-0.9346666666666666,,3.266666666666667,,Optimal
+Tin,metals/inorganics,PPM,,,,,Not Detected,,Not Detected,-
+Titanium,metals/inorganics,PPM,,,,,Not Detected,,Not Detected,-
+Vanadium,metals/inorganics,PPM,,0.0005,,,Not Detected,,Not Detected,-
+Zinc,metals/inorganics,PPM,,0.04,,,Not Detected,,Not Detected,-
+"1,2 Dichlorobenzene",moderately volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+"1,2,3 Trichloropropane",moderately volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+"1,2,4 Trimethylbenzene",moderately volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+"1,3 Dichlorobenzene",moderately volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+"1,3,5 Trimethylbenzene",moderately volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Bromobenzene,moderately volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Isopropylbenzene,moderately volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Methyl Tertiary Butyl Ether,moderately volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+n Butylbenzene,moderately volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+n Propylbenzene,moderately volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+p Isopropyltoluene,moderately volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+sec Butylbenzene,moderately volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+tert Butylbenzene,moderately volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+"1,2,3 Trichlorobenzene",moderately volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Chlorotoluene 2,moderately volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Chlorotoluene 4,moderately volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Hexachlorobutadiene,moderately volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Naphthalene,moderately volatile organics,PPB,,,,,Not Detected,,Not Detected,-
+Alkalinity (as CaCO3),metals/inorganics,PPM,79.0,83.52,79.0,,No Benchmarks,,No Benchmarks,-
+Bicarbonate,metals/inorganics,PPM,96.02,101.81,96.02,,No Benchmarks,,No Benchmarks,-
+Carbonate,metals/inorganics,PPM,0.14,0.017,0.14,,No Benchmarks,,No Benchmarks,-
+Chloride,metals/inorganics,PPM,29.2,30.47,29.2,,No Benchmarks,,No Benchmarks,-
+Chloride-to-Sulfate Mass Ratio,metals/inorganics,N/A,0.44,0.41,0.44,,No Benchmarks,,No Benchmarks,-
+Grains per gallon,metals/inorganics,Grains,7.98,8.98,7.98,,No Benchmarks,,No Benchmarks,-
+Hardness,metals/inorganics,PPM,136.0,152.92,136.0,,No Benchmarks,,No Benchmarks,-
+"Hardness (Ca,Mg)",metals/inorganics,PPM,136.0,152.92,136.0,,No Benchmarks,,No Benchmarks,-
+Hardness (Total),metals/inorganics,PPM,136.54,153.68,136.54,,No Benchmarks,,No Benchmarks,-
+Sodium Adsorption Ratio,metals/inorganics,N/A,0.94,0.75,0.94,,No Benchmarks,,No Benchmarks,-
+Sulfate,metals/inorganics,PPM,66.0,74.82,66.0,-0.868,,6.6,,Optimal
+Total Dissolved Solids,metals/inorganics,PPM,224.0,232.6,224.0,,No Benchmarks,,No Benchmarks,-
+Conductivity,special cases,umhos/cm,,439.1,439.1,,No Benchmarks,,No Benchmarks,-
+CSMR,special cases,N/A,,,,,Not Detected,,Not Detected,-
+Langelier Saturation Index,special cases,N/A,-0.55,-1.4,,,Not Detected,,Not Detected,-
+pH,special cases,pH,7.5,6.55,7.5,,No Benchmarks,,No Benchmarks,-
+N-ethyl perfluorooctanesulfonamidoacetic acid,PFAS,PPB,,,,,Not Detected,,Not Detected,-
+N-methyl perfluorooctanesulfonamidoacetic acid,PFAS,PPB,,,,,Not Detected,,Not Detected,-
+Perfluorobutanesulfonic acid,PFAS,PPB,,,,,Not Detected,,Not Detected,-
+Perfluorodecanoic acid,PFAS,PPB,,,,,Not Detected,,Not Detected,-
+Perfluorododecanoic acid,PFAS,PPB,,,,,Not Detected,,Not Detected,-
+Perfluoroheptanoic acid,PFAS,PPB,,,,,Not Detected,,Not Detected,-
+Perfluorohexanesulfonic acid,PFAS,PPB,,,,,Not Detected,,Not Detected,-
+Perfluorohexanoic acid,PFAS,PPB,,,,,Not Detected,,Not Detected,-
+Perfluorononanoic acid,PFAS,PPB,,,,,Not Detected,,Not Detected,-
+Perfluorooctanesulfonic acid,PFAS,PPB,,,,,Not Detected,,Not Detected,-
+Perfluorooctanoic acid,PFAS,PPB,,,,,Not Detected,,Not Detected,-
+Perfluorotetradecanoic acid,PFAS,PPB,,,,,Not Detected,,Not Detected,-
+Perfluorotridecanoic acid,PFAS,PPB,,,,,Not Detected,,Not Detected,-
+Perfluoroundecanoic acid,PFAS,PPB,,,,,Not Detected,,Not Detected,-

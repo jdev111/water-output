@@ -1,0 +1,58 @@
+{
+  "state": "CA",
+  "drinking_index": 37.5,
+  "drinking_label": "Optimal",
+  "other_index": 119.93447580645162,
+  "other_label": "Moderate",
+  "categories": [
+    {
+      "category": "metals/inorganics",
+      "drink_index": 37.5,
+      "drink_label": "Optimal",
+      "other_index": 0.0,
+      "other_label": "Optimal"
+    },
+    {
+      "category": "highly volatile organics",
+      "drink_index": 0.0,
+      "drink_label": "Optimal",
+      "other_index": 119.93447580645162,
+      "other_label": "Moderate"
+    },
+    {
+      "category": "moderately volatile organics",
+      "drink_index": 0.0,
+      "drink_label": "Optimal",
+      "other_index": 0.0,
+      "other_label": "Optimal"
+    },
+    {
+      "category": "semi-volatile/lipophilic organics",
+      "drink_index": 0.0,
+      "drink_label": "Optimal",
+      "other_index": 0.0,
+      "other_label": "Optimal"
+    },
+    {
+      "category": "non-volatile inorganic salts/minerals",
+      "drink_index": 0.0,
+      "drink_label": "Optimal",
+      "other_index": 0.0,
+      "other_label": "Optimal"
+    },
+    {
+      "category": "PFAS",
+      "drink_index": 0.0,
+      "drink_label": "Optimal",
+      "other_index": 0.0,
+      "other_label": "Optimal"
+    },
+    {
+      "category": "special cases (microbial, physical, etc.)",
+      "drink_index": 0.0,
+      "drink_label": "Optimal",
+      "other_index": 0.0,
+      "other_label": "Optimal"
+    }
+  ]
+}

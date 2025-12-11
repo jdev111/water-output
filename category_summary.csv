@@ -1,0 +1,8 @@
+Category,Drink Weight,Drink Index,Drink Label,Other Weight,Other Index,Other Label
+metals/inorganics,1.0,37.5,Optimal,0.0,0.0,Optimal
+highly volatile organics,0.0,0.0,Optimal,1.0,119.93447580645162,Moderate
+moderately volatile organics,1.0,0.0,Optimal,1.0,0.0,Optimal
+semi-volatile/lipophilic organics,1.0,0.0,Optimal,1.0,0.0,Optimal
+non-volatile inorganic salts/minerals,1.0,0.0,Optimal,0.0,0.0,Optimal
+PFAS,1.0,0.0,Optimal,1.0,0.0,Optimal
+"special cases (microbial, physical, etc.)",1.0,0.0,Optimal,0.0,0.0,Optimal

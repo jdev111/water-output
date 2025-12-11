@@ -1,0 +1,126 @@
+Parameter,Category,HGL,CA average,Kitchen Tap,Shower
+"1,2 Dichloropropane",highly volatile organics,0.5,0.73,< 2,Not detected
+Carbon Tetrachloride,highly volatile organics,0.1,2.4,< 2,Not detected
+Dichloromethane,highly volatile organics,4.0,1.9,< 2,Not detected
+Tetrachloroethylene,highly volatile organics,0.06,3.3,< 2,Not detected
+Trichloroethylene,highly volatile organics,0.4,4.5,< 2,Not detected
+Vinyl Chloride,highly volatile organics,0.05,0.88,< 2,Not detected
+Benzene,moderately volatile organics,0.15,1.3,< 2,Not detected
+Dibromochloropropane,moderately volatile organics,0.0017,0.077,< 2,Not detected
+Ethylene dibromide,moderately volatile organics,0.01,0.063,< 2,Not detected
+"1,1,2 Trichloroethane",highly volatile organics,0.3,0.94,< 2,Not detected
+"1,2 Dichloroethane",highly volatile organics,0.4,1.0,< 2,Not detected
+Bromodichloromethane,highly volatile organics,,7.5,< 2,1.8
+Chloroform,highly volatile organics,0.22,15.2,< 2,6.27
+Dibromochloromethane,highly volatile organics,0.1,8.6,< 2,< 0.506
+Antimony,metals/inorganics,0.001,0.0017,< 0.001,Not detected
+Arsenic,metals/inorganics,,0.0084,< 0.001,0.00049
+Barium,metals/inorganics,2.0,0.12,0.0017,0.03
+Beryllium,metals/inorganics,0.001,0.00066,< 0.001,Not detected
+Cadmium,metals/inorganics,4e-05,0.0021,< 0.0002,1.0E-5
+Chromium (Total),metals/inorganics,0.1,0.0082,< 0.001,Not detected
+Copper,metals/inorganics,0.3,0.13,0.0063,0.17
+Lead,metals/inorganics,,0.0052,< 0.0005,6.0E-5
+Mercury,metals/inorganics,0.0012,0.0025,< 0.002,Not detected
+Selenium,metals/inorganics,0.03,0.011,< 0.002,Not detected
+Thallium,metals/inorganics,0.0001,0.0011,< 0.0005,Not detected
+Uranium,metals/inorganics,,0.017,< 0.0005,0.00017
+"1,4 Dichlorobenzene",moderately volatile organics,6.0,1.6,< 2,Not detected
+Chlorobenzene,moderately volatile organics,70.0,1.2,< 2,Not detected
+Ethylbenzene,moderately volatile organics,300.0,2.9,< 2,Not detected
+"m,p Xylene",moderately volatile organics,1800.0,2.3,< 2,Not detected
+o Xylene,moderately volatile organics,1800.0,1.9,< 2,Not detected
+Styrene,moderately volatile organics,0.5,0.96,< 2,Not detected
+Toluene,moderately volatile organics,150.0,6.5,< 2,Not detected
+"1,2,4 Trichlorobenzene",moderately volatile organics,5.0,0.83,< 2,Not detected
+Bromoform,moderately volatile organics,,6.8,< 2,Not detected
+Fluoride,metals/inorganics,0.8,0.68,0.6,0.68
+Nitrate (as N),metals/inorganics,10.0,0.98,1.1,1.09
+Nitrite (as N),metals/inorganics,1.0,0.21,0.23,0.2
+"1,1 Dichloroethane",highly volatile organics,3.0,0.78,< 2,Not detected
+"1,1 Dichloroethylene",highly volatile organics,,1.6,< 2,Not detected
+"1,1 Dichloropropene",highly volatile organics,,0.65,< 2,Not detected
+"1,1,1 Trichloroethane",highly volatile organics,,1.2,< 2,Not detected
+"1,1,1,2 Tetrachloroethane",highly volatile organics,,,< 2,Not detected
+"1,1,2,2 Tetrachloroethane",highly volatile organics,0.1,0.76,< 2,Not detected
+"1,3 Dichloropropane",highly volatile organics,0.5,0.19,< 2,Not detected
+"2,2 Dichloropropane",highly volatile organics,,0.72,< 2,Not detected
+Bromochloromethane,highly volatile organics,,1.3,< 2,Not detected
+Bromomethane,highly volatile organics,,1.3,< 2,Not detected
+Chloroethane,highly volatile organics,,2.3,< 2,Not detected
+Chloromethane,highly volatile organics,2.69,1.3,< 2,Not detected
+"cis 1,2 Dichloroethylene",highly volatile organics,,1.5,< 2,Not detected
+"cis 1,3 Dichloropropene",highly volatile organics,0.5,0.013,< 2,Not detected
+Dibromomethane,highly volatile organics,,1.6,< 2,Not detected
+Dichlorodifluoromethane,highly volatile organics,,1.6,< 2,Not detected
+"trans 1,3 Dichloropropene",highly volatile organics,0.5,0.0086,< 2,Not detected
+Trichlorofluoromethane,highly volatile organics,1300.0,5.4,< 2,Not detected
+Total THMs,highly volatile organics,0.32,22.7,0,8.55
+Aluminum,metals/inorganics,0.6,0.2,< 0.05,Not detected
+Boron,metals/inorganics,0.5,0.28,< 0.1,0.07
+Calcium,metals/inorganics,,76.7,47.3,52.8
+Cobalt,metals/inorganics,0.002,0.00043,< 0.0002,0.00108
+Iron,metals/inorganics,4.0,0.76,< 0.1,Not detected
+Lithium,metals/inorganics,0.01,0.021,< 0.05,0.01
+Magnesium,metals/inorganics,,24.2,4.42,5.12
+Manganese,metals/inorganics,0.1,0.15,< 0.005,Not detected
+Molybdenum,metals/inorganics,0.03,0.0041,< 0.001,0.00107
+Nickel,metals/inorganics,0.012,0.015,< 0.002,0.00307
+Phosphorus,metals/inorganics,,0.21,< 1,0.37
+Potassium,metals/inorganics,,4.7,6.66,6.99
+Silica,metals/inorganics,,,11.3,
+Silver,metals/inorganics,,0.013,< 0.005,Not detected
+Sodium,metals/inorganics,,68.1,25.2,21.27
+Strontium,metals/inorganics,3.0,0.29,0.196,0.35
+Tin,metals/inorganics,,0.15,< 0.005,Not detected
+Titanium,metals/inorganics,,0.0043,< 0.05,Not detected
+Vanadium,metals/inorganics,0.05,0.0075,< 0.005,0.0005
+Zinc,metals/inorganics,2.0,0.29,< 0.02,0.04
+"1,2 Dichlorobenzene",moderately volatile organics,,7.8,< 2,Not detected
+"1,2,3 Trichloropropane",moderately volatile organics,0.0007,0.23,< 2,Not detected
+"1,2,4 Trimethylbenzene",moderately volatile organics,300.0,3.2,< 2,Not detected
+"1,3 Dichlorobenzene",moderately volatile organics,,0.01,< 2,Not detected
+"1,3,5 Trimethylbenzene",moderately volatile organics,300.0,2.5,< 2,Not detected
+Bromobenzene,moderately volatile organics,,0.85,< 2,Not detected
+Isopropylbenzene,moderately volatile organics,300.0,1.0,< 2,Not detected
+Methyl Tertiary Butyl Ether,moderately volatile organics,13.0,4.9,< 2,Not detected
+n Butylbenzene,moderately volatile organics,300.0,0.38,< 2,Not detected
+n Propylbenzene,moderately volatile organics,300.0,1.2,< 2,Not detected
+p Isopropyltoluene,moderately volatile organics,300.0,0.051,< 2,Not detected
+sec Butylbenzene,moderately volatile organics,,0.013,< 2,Not detected
+tert Butylbenzene,moderately volatile organics,,,< 2,Not detected
+"1,2,3 Trichlorobenzene",moderately volatile organics,5.0,0.53,< 2,Not detected
+Chlorotoluene 2,moderately volatile organics,,10.1,< 2,Not detected
+Chlorotoluene 4,moderately volatile organics,,8.8,< 2,Not detected
+Hexachlorobutadiene,moderately volatile organics,,8.4,< 2,Not detected
+Naphthalene,moderately volatile organics,,0.24,< 2,Not detected
+Alkalinity (as CaCO3),metals/inorganics,,1540.0,79,83.52
+Bicarbonate,metals/inorganics,,124.0,96.02,101.81
+Carbonate,metals/inorganics,,0.44,0.14,0.017
+Chloride,metals/inorganics,,69.4,29.2,30.47
+Chloride-to-Sulfate Mass Ratio,metals/inorganics,,2.5,0.44,0.41
+Grains per gallon,metals/inorganics,,6.8,7.98,8.98
+Hardness,metals/inorganics,,,136,152.92
+"Hardness (Ca,Mg)",metals/inorganics,,116.0,136,152.92
+Hardness (Total),metals/inorganics,,118.0,136.54,153.68
+Sodium Adsorption Ratio,metals/inorganics,,9.1,0.94,0.75
+Sulfate,metals/inorganics,500.0,94.6,66,74.82
+Total Dissolved Solids,metals/inorganics,,480.0,224,232.6
+Conductivity,special cases,,432.0,,439.1
+CSMR,special cases,,,,
+Langelier Saturation Index,special cases,,-0.53,-0.55,-1.4
+pH,special cases,,7.7,7.5,6.55
+N-ethyl perfluorooctanesulfonamidoacetic acid,PFAS,,,,
+N-methyl perfluorooctanesulfonamidoacetic acid,PFAS,,,,
+Perfluorobutanesulfonic acid,PFAS,,,,
+Perfluorodecanoic acid,PFAS,,,,
+Perfluorododecanoic acid,PFAS,,,,
+Perfluoroheptanoic acid,PFAS,,,,
+Perfluorohexanesulfonic acid,PFAS,,,,
+Perfluorohexanoic acid,PFAS,,,,
+Perfluorononanoic acid,PFAS,,,,
+Perfluorooctanesulfonic acid,PFAS,,,,
+Perfluorooctanoic acid,PFAS,,,,
+Perfluorotetradecanoic acid,PFAS,,,,
+Perfluorotridecanoic acid,PFAS,,,,
+Perfluoroundecanoic acid,PFAS,,,,
